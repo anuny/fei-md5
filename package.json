@@ -1,12 +1,18 @@
 {
   "name": "fei-md5",
+  "version": "1.0.3",
   "description": "node md5",
-  "version": "1.0.2",
-  "author": "anuny",
-  "license": "MIT",
-  "scripts": {},
+  "main": "index.js",
   "bin": {
     "fei-md5": "bin/fei-md5"
   },
+  "scripts": {
+  },
+  "keywords": [
+    "md5",
+	"nodejs"
+  ],
+  "author": "Anuny",
+  "license": "MIT",
   "dependencies": {}
 }
