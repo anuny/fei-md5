@@ -1,12 +1,12 @@
 {
   "name": "fei-md5",
   "description": "node md5",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "anuny",
   "license": "MIT",
   "scripts": {},
   "bin": {
-    "md5": "bin/md5"
+    "fei-md5": "bin/fei-md5"
   },
   "dependencies": {}
 }
